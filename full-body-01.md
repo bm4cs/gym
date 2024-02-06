@@ -1,4 +1,6 @@
-Year: 2020
+# Full body 01
+
+A remixed full body program at the start of 2020 (COVID).
 
 ## Monday
 
@@ -34,3 +36,4 @@ Year: 2020
 - Deadlifts (heavy)
 - Bench press
 - Squats
+

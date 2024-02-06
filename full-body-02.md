@@ -1,4 +1,8 @@
-# Monday
+# Full body 02
+
+A refined full body program we came up with in 2021. We have been using this blueprint for years with great success.
+
+## Monday
 
 - back squats (6x6, 5x5, 4x4, 3x3, 2x2, 1x1)
 - incline bench press (3x8 to 6x8)
@@ -6,7 +10,7 @@
 - tricep accessory
 - shoulder accessory
 
-# Tuesday
+## Tuesday
 
 - barbell bench press (1x5 heavy. 4x5 medium)
 - romanian deadlift / sumo deadlift
@@ -15,7 +19,7 @@
 - arm accessory
 - shoulder accessory
 
-# Wednesday
+## Wednesday
 
 - weighted pull-ups
 - chest supported t-bar row
@@ -24,7 +28,7 @@
 - cable upright row (rope sniff)
 - arm accessory
 
-# Thursday
+## Thursday
 
 - deadlifts
 - decline bench / flat bench press (5x6 to 8x6)
@@ -33,7 +37,7 @@
 - shoulder accessory
 - arm accessory
 
-# Friday
+## Friday
 
 - overhead press
 - seated row
@@ -42,7 +46,7 @@
 - push ups
 - arm accessory
 
-# Accessories pool
+## Accessories pool
 
 - cable pull-over
 - ez bar curl
