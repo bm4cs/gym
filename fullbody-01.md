@@ -1,4 +1,6 @@
-# Monday
+Year: 2020
+
+## Monday
 
 - back squats
 - incline bench press
@@ -6,14 +8,14 @@
 - tricep pulldowns
 - side raises
 
-# Tuesday
+## Tuesday
 
 - Pullups
 - Deadlifts sumo
 - Leg press
 - Cable fly
 
-# Wednesday
+## Wednesday
 
 - Bench press
 - Lat pull downs
@@ -21,13 +23,13 @@
 - Standing calf raises
 - Abs and planks
 
-# Thursday
+## Thursday
 
 - Overhead press
 - Dumbbell bentover rows (lawn-mowers)
 - Lunges
 
-# Friday
+## Friday
 
 - Deadlifts (heavy)
 - Bench press
