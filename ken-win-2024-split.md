@@ -34,7 +34,7 @@ Well balanced program focused on building strength and is interlaced with recove
 - lat pulldown
 - planks
 
-# Thursday - legs and chest
+## Thursday - legs and chest
 
 - barbell bench press narrow
 - dumbbell close grip chest press
@@ -48,7 +48,7 @@ Well balanced program focused on building strength and is interlaced with recove
 - hammer curls
 - decline sit-ups
 
-# Friday - back and shoulders
+## Friday - back and shoulders
 
 - paused deadlift
 - romanian deadlift
