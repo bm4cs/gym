@@ -1,4 +1,4 @@
-# Full body 02
+# Full body 2021
 
 A refined full body program we came up with in 2021. We have been using this blueprint for years with great success.
 

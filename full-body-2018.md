@@ -1,4 +1,4 @@
-# Full body 01
+# Full body 2018
 
 A remixed full body program at the start of 2020 (COVID).
 
